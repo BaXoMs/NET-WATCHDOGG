@@ -1,0 +1,3 @@
+git add .
+git commit -m "Actualizar README principal con documentación completa"
+git push origin main
