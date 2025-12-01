@@ -1,0 +1,28 @@
+# --- BASURA DE NODE.JS (MÓVIL) ---
+node_modules/
+.expo/
+npm-debug.log
+yarn-error.log
+dist/
+web-build/
+
+# --- BASURA DE PYTHON (BACKEND) ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+
+# --- BASURA DE SISTEMA ---
+.DS_Store
+Thumbs.db
+.vscode/
+
+# --- ARCHIVOS SENSIBLES Y BASES DE DATOS ---
+.env
+*.db
+*.sqlite3
